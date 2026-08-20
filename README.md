@@ -1,11 +1,6 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     SABA TERADAL – GitHub Profile README
-     Professional • Animated • HR-Ready
-═══════════════════════════════════════════════════════════════ -->
-
+```markdown
 <div align="center">
   
-  <!-- Animated Typing -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saba+Teradal+%F0%9F%91%8B;Recent+Graduate+%7C+Software+Engineer;Java+Full+Stack+Developer;AI+%26+Modern+Web+Enthusiast;Building+Real-World+Projects" alt="Typing SVG" />
 
   <br><br>
@@ -19,7 +14,6 @@
 
   <br>
 
-  <!-- Badges -->
   <p>
     <a href="https://www.linkedin.com/in/sabaterdal">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -84,8 +78,6 @@ I specialize in **Java Full Stack Development** and enjoy integrating **AI** to 
 
 </div>
 
-> More projects coming soon as I continue building...
-
 ---
 
 ## 📊 GitHub Analytics
@@ -106,8 +98,6 @@ I specialize in **Java Full Stack Development** and enjoy integrating **AI** to 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SabaTeradal/SabaTeradal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-> **Note:** The snake will appear after you set up the GitHub Action (see instructions below).
 
 ---
 
@@ -155,3 +145,4 @@ If you like my work, feel free to ⭐ some repositories or reach out — I'm alw
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>Let's build something amazing together!</b>
 
 </div>
+```
