@@ -91,12 +91,12 @@ I specialize in **Java Full Stack Development** and enjoy integrating **AI** to 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SabaTeradal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=SabaTeradal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SabaTeradal&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabaTeradal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="400"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SabaTeradal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="400"/>
 </div>
 
 ---
@@ -106,6 +106,8 @@ I specialize in **Java Full Stack Development** and enjoy integrating **AI** to 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SabaTeradal/SabaTeradal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+
+> **Note:** The snake will appear after you set up the GitHub Action (see instructions below).
 
 ---
 
@@ -118,4 +120,38 @@ I specialize in **Java Full Stack Development** and enjoy integrating **AI** to 
 
 ---
 
-##
+## 📈 Current Focus
+
+- Deepening **System Design** & scalable architecture knowledge
+- Building more production-ready full-stack + AI projects
+- Strengthening **DSA** and problem-solving skills
+- Contributing to open-source when possible
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabaterdal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabateradal@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabaTeradal)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ "Clean code + Real projects + Continuous learning = Strong developer"
+
+<br>
+
+**Thanks for visiting!**  
+If you like my work, feel free to ⭐ some repositories or reach out — I'm always open to connecting.
+
+<br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>Let's build something amazing together!</b>
+
+</div>
