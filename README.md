@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saba+Teradal+%F0%9F%91%8B;Recent+Graduate+%7C+Software+Engineer;Java+Full+Stack+Developer;AI+%26+Modern+Web+Enthusiast;Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saba+Teradal+%F0%9F%91%8B;Aspiring+Software+Engineer;Java+Full+Stack+Developer;AI+%26+Modern+Web+Enthusiast;Building+Real-World+Projects" alt="Typing SVG" />
 
   <br><br>
 
@@ -8,8 +8,8 @@
 
   <br><br>
 
- ### 🚀 Recent Graduate | Aspiring Java Full Stack Developer | AI Enthusiast  
-**B.Tech Graduate – VTU Belagavi** • Looking for **Software Engineer / Full Stack** opportunities
+  ### 🚀 Aspiring Software Engineer | Java Full Stack Developer | AI Enthusiast  
+  **B.Tech Graduate – VTU Belagavi** • Looking for **Software Engineer / Full Stack** opportunities
 
   <br>
 
@@ -35,7 +35,7 @@ I'm a **recent B.Tech graduate** from **VTU Belagavi** who loves building clean,
 I specialize in **Java Full Stack Development** and enjoy integrating **AI** to solve real-world problems. My focus is on writing clean code, strong fundamentals (DSA + OOP), and shipping projects that actually work in the real world.
 
 **Currently:**
-- Actively looking for **Software Engineer / Full Stack Developer** opportunities
+- Looking for **Software Engineer / Full Stack Developer** opportunities
 - Building full-stack & AI-powered applications
 - Strengthening System Design & backend skills
 - Open to full-time roles (Remote / Hybrid / On-site)
