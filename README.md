@@ -8,8 +8,8 @@
 
   <br><br>
 
-  ### 🚀 Recent Graduate | Java Full Stack Developer | AI Enthusiast  
-  **B.Tech Graduate – VTU Belagavi** • Actively seeking ** Full Stack** roles
+ ### 🚀 Recent Graduate | Aspiring Java Full Stack Developer | AI Enthusiast  
+**B.Tech Graduate – VTU Belagavi** • Looking for **Software Engineer / Full Stack** opportunities
 
   <br>
 
