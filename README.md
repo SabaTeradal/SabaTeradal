@@ -1,128 +1,121 @@
-<!-- PROFILE HEADER -->
+<!-- ═══════════════════════════════════════════════════════════════
+     SABA TERADAL – GitHub Profile README
+     Professional • Animated • HR-Ready
+═══════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">Hi 👋, I'm Saba Teradal</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Java Full Stack Developer | AI Enthusiast</h3>
+<div align="center">
+  
+  <!-- Animated Typing -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saba+Teradal+%F0%9F%91%8B;Recent+Graduate+%7C+Software+Engineer;Java+Full+Stack+Developer;AI+%26+Modern+Web+Enthusiast;Building+Real-World+Projects" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Projects;Future+Software+Engineer" />
-</p>
+  <br><br>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Y1Z2Z4eXZxZ3h4eXZxZ3h4eXZxZ3h4eXZxZ3h4eXZxZ3h4/g9608iUuHJFHvavskA/giphy.gif" width="480" alt="coding animation"/>
+
+  <br><br>
+
+  ### 🚀 Recent Graduate | Java Full Stack Developer | AI Enthusiast  
+  **B.Tech Graduate – VTU Belagavi** • Actively seeking **Software Engineer / Full Stack** roles
+
+  <br>
+
+  <!-- Badges -->
+  <p>
+    <a href="https://www.linkedin.com/in/sabaterdal">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:sabateradal@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Open to Work"/>
+    <img src="https://komarev.com/ghpvc/?username=SabaTeradal&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  </p>
+
+</div>
 
 ---
 
-## 💼 About Me
+## 👋 About Me
 
-* 🎓 B.Tech Student – **VTU Belagavi**
-* 💻 Strong in **Java, Web Development, and Problem Solving**
-* 🤖 Passionate about **AI-powered applications**
-* 📈 Focused on building **real-world scalable projects**
-* 🎯 Actively seeking **Software Engineer / Full Stack roles**
+I'm a **recent B.Tech graduate** from **VTU Belagavi** who loves building clean, scalable, and useful applications.
 
----
+I specialize in **Java Full Stack Development** and enjoy integrating **AI** to solve real-world problems. My focus is on writing clean code, strong fundamentals (DSA + OOP), and shipping projects that actually work in the real world.
 
-## 🧠 What I Bring
-
-✔ Clean and structured coding practices
-✔ Strong fundamentals in **DSA & OOP**
-✔ Ability to learn and adapt quickly
-✔ Passion for solving real-world problems
+**Currently:**
+- Actively looking for **Software Engineer / Full Stack Developer** opportunities
+- Building full-stack & AI-powered applications
+- Strengthening System Design & backend skills
+- Open to full-time roles (Remote / Hybrid / On-site)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js" />
-</p>
+### Languages
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css" />
 
-### 🌐 Frontend
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
 
-### ⚙️ Backend & Database
+### Tools & Others
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
-</p>
-
-### 🤖 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💰 Expense Tracker
+<div align="center">
 
-Track daily expenses with an intuitive and responsive UI
-**Tech:** React, JavaScript, CSS
+| Project | Description | Tech Stack | Link |
+|:-------:|:------------|:----------:|:----:|
+| **AI Resume Builder** | ATS-optimized resume generator powered by AI | React • Node.js • AI APIs | [View](https://github.com/SabaTeradal/resume-builder-ai) |
+| **Movie Spark AI** | AI-powered movie recommendation & discovery platform | TypeScript • React • Vite • Tailwind • shadcn/ui | [View](https://github.com/SabaTeradal/movie-spark-ai) |
+| **Netflix UI Clone** | Pixel-perfect responsive Netflix frontend clone | React • TypeScript • CSS | [View](https://github.com/SabaTeradal/Netflux-clone-project) |
+| **Weather Glass** | Modern glassmorphism weather application | TypeScript • React | [View](https://github.com/SabaTeradal/weather-glass) |
+| **Expense Tracker** | Clean & responsive daily expense tracking app | React • JavaScript • CSS | [View](https://github.com/SabaTeradal) |
+| **Placement Readiness** | Tools & resources for job preparation | JavaScript | [View](https://github.com/SabaTeradal/placement-Readiness) |
 
----
+</div>
 
-### 🤖 AI Resume Builder
-
-Generate ATS-optimized resumes using AI APIs
-**Tech:** React, Node.js, AI
-
----
-
-### 🧠 MindBloom AI
-
-Productivity-focused platform to reduce distractions and improve focus
-**Tech:** JavaScript, AI Integration
-
----
-
-### 🎬 Netflix UI Clone
-
-Frontend-focused project showcasing UI/UX design skills
-**Tech:** React, HTML, CSS
+> More projects coming soon as I continue building...
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SabaTeradal&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabaTeradal&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SabaTeradal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SabaTeradal&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabaTeradal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements & Focus
-
-* 🚀 Building multiple full stack projects
-* 📚 Continuously learning **AI & modern web technologies**
-* 💡 Strong interest in **system design & scalable apps**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabaTeradal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="400"/>
+</div>
 
 ---
 
-## 🎯 Career Objective
+## 🐍 Contribution Snake
 
-To start my career as a **Software Engineer** in a dynamic organization where I can apply my skills in **full stack development and AI**, contribute to impactful solutions, and grow into a highly skilled engineer.
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:sabateradal@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail"></a>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SabaTeradal/SabaTeradal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
-<p align="center">
-  ⭐ <b>"Consistent learning + Real projects = Strong developer"</b>
-</p>
+## 🎯 What I'm Looking For
 
+- **Software Engineer** / **Full Stack Developer** roles
+- Opportunities to work on real products with modern tech stacks
+- Mentorship + growth-oriented teams
+- Full-time positions (Remote / Hybrid / On-site)
+
+---
+
+##
